@@ -1,0 +1,18 @@
+.disp {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: aqua;
+    border: 5px solid black;
+    box-shadow: 10px 10px 10px;
+    padding: 20px;
+}
+
+.btn {
+    background-color: chartreuse;
+}
+
+.header {
+    background-color: darkgoldenrod;
+    text-align: center;
+}

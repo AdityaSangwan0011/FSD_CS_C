@@ -1,0 +1,22 @@
+#disp {
+  background-color: aqua;
+  color: black;
+  border: 10px solid green;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+h1 {
+  background-color: chartreuse;
+  color: black;
+  font-size: 20px;
+}
+
+h2 {
+  background-color: blueviolet;
+  color: black;
+  font-size: 15px;
+}
